@@ -1,0 +1,22 @@
+{
+  "name": "stream-handbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "concat0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiechao06/stream-handbook-samples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiechao06/stream-handbook-samples/issues"
+  },
+  "homepage": "https://github.com/xiechao06/stream-handbook-samples#readme",
+  "dependencies": {
+    "concat-stream": "^1.5.1"
+  }
+}
